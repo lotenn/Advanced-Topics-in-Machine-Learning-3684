@@ -5,8 +5,8 @@ name = "pypi"
 
 [packages]
 jupyter = "*"
-numpy = "*"
 matplotlib = "*"
+numpy = "==1.21.4"
 scikit-learn = "*"
 pandas = "*"
 seaborn = "*"
@@ -15,6 +15,9 @@ plotly = "*"
 sweetviz = "*"
 imbalanced-learn = "*"
 mlxtend = "*"
+lime = "*"
+shap = "*"
+numba = "==0.53.0"
 
 [dev-packages]
 
