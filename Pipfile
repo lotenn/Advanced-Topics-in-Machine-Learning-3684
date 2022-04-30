@@ -18,6 +18,7 @@ mlxtend = "*"
 lime = "*"
 shap = "*"
 numba = "==0.53.0"
+matplotlib-venn = "*"
 
 [dev-packages]
 
